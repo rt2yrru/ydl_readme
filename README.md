@@ -1,6 +1,6 @@
 #Options
 
-<table width="100%"   align="center"  class="table_border_both">
+<table width="100%"   align="center" >
 <tr class="heading_table_top">
 	<th> Parameter </th>
     <th>  </th>
