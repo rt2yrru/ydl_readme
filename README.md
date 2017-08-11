@@ -1,6 +1,6 @@
 #Options
 
-<table width="100%"  >
+<table >
 <tr>
 	<th> Parameter </th>
     <th>  </th>
