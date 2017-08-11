@@ -1,7 +1,7 @@
 #Options
 
 <table width="100%"   align="center" >
-<tr class="heading_table_top">
+<tr>
 	<th> Parameter </th>
     <th>  </th>
     <th>Description </th>
